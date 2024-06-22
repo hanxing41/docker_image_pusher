@@ -1,1 +1,1 @@
-xui
+e x-ui --restart=unless-stopped enwaiax/x-ui:latest
