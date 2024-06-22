@@ -1,1 +1,1 @@
-3x-ui-image
+x-ui:latest
