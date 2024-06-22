@@ -1,1 +1,1 @@
-e x-ui --restart=unless-stopped enwaiax/x-ui:latest
+3x-ui \ghcr.io/misaka-blog/3x-ui:latest
