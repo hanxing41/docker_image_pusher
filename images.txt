@@ -1,1 +1,1 @@
-prxpostern/3x-ui-image
+3x-ui-image
