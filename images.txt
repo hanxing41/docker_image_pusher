@@ -1,1 +1,1 @@
-3x-ui \ghcr.io/misaka-blog/3x-ui:latest
+prxpostern/3x-ui-image
