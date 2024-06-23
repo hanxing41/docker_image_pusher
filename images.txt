@@ -1,1 +1,1 @@
-x-ui:latest
+mfun:laster
